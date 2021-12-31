@@ -84,4 +84,4 @@ Ce projet a été construit avec [Bootstrap 5.0](https://github.com/twbs/bootstr
 
 ## License
 
-[MIT](https://github.com/Inkapable/quiz-app/blob/master/LICENSE)
+[MIT](https://github.com/Inkapa/quiz-app/blob/master/LICENSE)
