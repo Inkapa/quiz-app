@@ -50,7 +50,7 @@ Most modern browsers are supported (excluding Internet Explorer).
 | Edge                                                                                                                                                                                               | Firefox                                                                                                                                                                                                | Chrome                                                                                                                                                                                              | Safari                                                                                                                                                                                              | Opera                                                                                                                                                                                            |
 
 
-## Mise en place local
+## Mise en place
 
 Pour plus d'informations sur comment mettre en place l'API, veuillez vous referer
 à son [README](https://github.com/Inkapa/quiz-api/blob/master/README.fr-FR.md#mise-en-place)
