@@ -37,6 +37,10 @@ Cette application de quiz permet de:
 
 [Live demo](https://quiz.liam.social)
 
+![Preview image #1](https://i.imgur.com/BiqooYT.png)
+![Preview image #2](https://i.imgur.com/0pjbADY.png)
+![Preview image #3](https://i.imgur.com/NJYINwH.png)
+
 ## Browser support
 
 Most modern browsers are supported (excluding Internet Explorer).
