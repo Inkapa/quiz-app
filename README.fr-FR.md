@@ -9,31 +9,31 @@
   </a>
 </p>
 
-English | [Français](./README.fr-FR.md)
+Français | [English](./README.md)
 
 ---
 
 ## Introduction
 
-This is a simple quiz app built in Vue 3 using the composition API.
+Ce project est une simple application de quiz développée en Vue 3 utilisant l'API de composition.
 
-This project was originally built for a Dev Jam, and helped me familiarize myself with the
-Vue.js framework and vue-router.
+Ce projet a été construit pour une Dev Jam, et m'a servie de point d'appui pour mieux me familiariser
+avec le framework Vue.js et vue-router
 
-The project is broken into two parts, the frontend and the API (available [here](https://github.com/Inkapa/quiz-api))
+Ce projet est séparé en deux parties, le frontend et l'API (disponible [ici](https://github.com/Inkapa/quiz-api))
 
-## How does it work?
+## Comment ça marche?
 
-The quiz app allows you to do the following:
+Cette application de quiz permet de:
 
-- ✅ - Create a new Quiz with up to 10 questions (arbitrary limit that can be extended)
-- ✅ - Once created, get a shareable link to allow others to play your quiz
-- ✅ - Play a random [Open Trivia DB](https://opentdb.com/api_config.php) quiz
-- ✅ - Play a random quiz created by other users on the site
-- ✅ - Display correct and incorrect answers
-- ✅ - Get the quiz score and elapsed time once a quiz is finished
+- ✅ - Créer un nouveau quiz contenant jusqu'à 10 questions (limite arbitraire pouvant être étendue)
+- ✅ - Générer un lien de partage une fois un quiz créé
+- ✅ - Jouer à un quiz au hasard depuis [Open Trivia DB](https://opentdb.com/api_config.php)
+- ✅ - Jouer à un quiz au hasard créer via l'application
+- ✅ - Afficher les réponses correctes et incorrectes
+- ✅ - Récupérer le score et le temps écoulé à la fin d'un quiz
 
-# Preview
+# Démonstration
 
 [Live demo](https://quiz.liam.social)
 
@@ -46,37 +46,37 @@ Most modern browsers are supported (excluding Internet Explorer).
 | Edge                                                                                                                                                                                               | Firefox                                                                                                                                                                                                | Chrome                                                                                                                                                                                              | Safari                                                                                                                                                                                              | Opera                                                                                                                                                                                            |
 
 
-## Project setup
-To make the project as intended, both API and Frontend are required.
+## Mise en place local
 
-For more information of how to setup the API please refer yourself 
-to the API's [README page](https://github.com/Inkapa/quiz-api#Project_setup)
+Pour plus d'informations sur comment mettre en place l'API, veuillez vous referer
+à son [README](https://github.com/Inkapa/quiz-api#Mise_en_place)
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compile et hot-reloads pour phase de development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compile et minifie pour phase de production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+#### Lints et correction des fichiers
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Modifier la configuration
+Voir [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Credits
 
-The project was built with [Bootstrap 5.0](https://github.com/twbs/bootstrap), [Vue Router 4](https://github.com/vuejs/vue-router-next) and [OpenTDB](https://opentdb.com/api_config.php)
+Ce projet a été construit avec [Bootstrap 5.0](https://github.com/twbs/bootstrap), [Vue Router 4](https://github.com/vuejs/vue-router-next) et [OpenTDB](https://opentdb.com/api_config.php)
+
 
 ## License
 
