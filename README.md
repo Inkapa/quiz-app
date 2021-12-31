@@ -55,7 +55,7 @@ Most modern browsers are supported (excluding Internet Explorer).
 To make the project as intended, both API and Frontend are required.
 
 For more information of how to setup the API please refer yourself 
-to the API's [README page](https://github.com/Inkapa/quiz-api#Project_setup)
+to the API's [README page](https://github.com/Inkapa/quiz-api#project-setup)
 
 ```
 npm install

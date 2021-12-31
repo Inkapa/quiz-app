@@ -53,7 +53,7 @@ Most modern browsers are supported (excluding Internet Explorer).
 ## Mise en place local
 
 Pour plus d'informations sur comment mettre en place l'API, veuillez vous referer
-à son [README](https://github.com/Inkapa/quiz-api#Mise_en_place)
+à son [README](https://github.com/Inkapa/quiz-api/blob/master/README.fr-FR.md#mise-en-place)
 
 ```
 npm install
