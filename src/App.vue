@@ -47,6 +47,7 @@ p, a{
 
 .home {
   width: 50vw;
+  max-width: 1000px;
   height: 150px;
 }
 

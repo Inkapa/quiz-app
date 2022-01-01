@@ -99,6 +99,7 @@ export default {
 <style scoped>
 .question {
   width: 50vw;
+  max-width: 1000px;
   height: 80px;
 }
 
