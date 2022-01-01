@@ -55,7 +55,7 @@ export default {
               headers: {
                 'Content-Type': 'application/json'
               },
-              timeout: 10000,
+              timeout: 15000,
               body: JSON.stringify(quizData)
             });
         const resp = await response.json()

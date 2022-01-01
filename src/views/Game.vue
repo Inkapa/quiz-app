@@ -51,7 +51,7 @@ export default {
             const response = await fetchWithTimeout(
                 `https://opentdb.com/api.php?amount=${nbQuestions}`,
                 {
-                  timeout: 5000
+                  timeout: 15000
                 });
             const data = await response.json()
             quizData.value.title = 'Random Open Trivia'
@@ -81,7 +81,7 @@ export default {
                 + process.env.VUE_APP_GET_ID_ENDPOINT
                 + props.id,
                 {
-                  timeout: 5000
+                  timeout: 15000
                 });
             if (!response.ok) {
               loading.value = false
