@@ -88,7 +88,7 @@ export default {
         if (router.currentRoute.value.name === "Create"){
           router.push("/")
         }
-      }, 10000)
+      }, 20000)
     }
     return {step, quizData, url, quiz_id, loading, error, setTitle, appendQuestion, increaseStep, submitQuiz}
   }
